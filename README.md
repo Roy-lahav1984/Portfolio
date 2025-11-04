@@ -3,7 +3,7 @@ Stroke Prediction: Machine Learning Project
 Overview
 
 This project uses the Stroke Prediction Dataset to identify key health and demographic factors that influence stroke risk.  
-It demonstrates a complete data science workflow — from cleaning and EDA to modeling and interpretation — suitable for healthcare analytics, predictive modeling, and risk assessment case studies.
+It demonstrates a complete data science workflow - from cleaning and EDA to modeling and interpretation — suitable for healthcare analytics, predictive modeling, and risk assessment case studies.
 
 ---
 
