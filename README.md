@@ -24,7 +24,7 @@ Highlights:
 - Built RFM model to segment customers into *Champions*, *Loyal*, and *At-Risk* groups  
 - Provided actionable insights for retention and targeted marketing
 
-📁 *Files:*  
+Files:  
 - `superstore_cleaning.ipynb`  
 - `superstore_eda.ipynb`  
 - `superstore_rfm_segmentation.ipynb`
@@ -40,7 +40,7 @@ Highlights:
 - Achieved ROC-AUC ≈ 0.85 using balanced class weighting  
 - Identified age, glucose level, and hypertension as top predictors
 
-📁 *Files:*  
+Files:  
 - `stroke_data_cleaning.ipynb`  
 - `stroke_eda.ipynb`  
 - `stroke_modeling.ipynb`
