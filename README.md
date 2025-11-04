@@ -1,6 +1,5 @@
 Data Analytics Portfolio
 
-Welcome! 👋  
 I’m a Data Analyst with 6+ years of experience in data-driven business analysis, visualization, and predictive modeling.  
 This portfolio showcases selected end-to-end analytics projects, demonstrating technical depth, business thinking, and clear storytelling.
 
