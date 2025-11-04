@@ -1,4 +1,4 @@
-Data Analytics: Machine Learning Portfolio
+Data Analytics Portfolio
 
 Welcome! 👋  
 I’m a Data Analyst with 6+ years of experience in data-driven business analysis, visualization, and predictive modeling.  
