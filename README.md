@@ -49,6 +49,23 @@ Files:
 
 ---
 
+Credit Card Customer Churn Analysis
+Goal: Understand customer behavior and identify drivers of churn in a credit card portfolio.  
+Techniques: Data cleaning, exploratory analysis, cohort & retention analysis  
+Highlights:
+- Prepared and enriched dataset with tenure, utilization, and engagement features  
+- Uncovered strong churn correlation with low transaction activity and high inactivity  
+- Built cohort-based retention analysis showing churn increase after ~3 years  
+- Delivered actionable insights for retention campaigns and loyalty programs  
+
+Files:  
+- `credit_churn_data_cleaning.ipynb`  
+- `credit_churn_eda.ipynb`  
+- `credit_churn_retention.ipynb`
+
+---
+
+
 Tech Stack
 
 - Languages: Python (Pandas, NumPy, Matplotlib, Scikit-learn), SQL
