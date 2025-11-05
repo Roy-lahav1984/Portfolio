@@ -34,11 +34,8 @@ stroke_prediction_project/
 ├── 02_eda.ipynb                  → Explores data distributions & feature relationships
 ├── 03_modeling.ipynb             → Trains and evaluates predictive models
 ├── data/
-│   └── stroke.csv
-├── data_cleaned/
 │   └── stroke_cleaned.csv
-└── models/
-    └── <saved_model>.joblib
+
 ```
 
 ---
