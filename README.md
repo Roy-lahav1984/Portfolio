@@ -2,11 +2,13 @@ Data Analytics Portfolio
 
 I’m a Data Analyst with 6+ years of experience in data-driven business analysis, visualization, and predictive modeling.  
 This portfolio showcases selected end-to-end analytics projects, demonstrating technical depth, business thinking, and clear storytelling.
+All analysis work in this portfolio uses publically available datasets, unless stated otherwise.
 
 ---
 
 About Me
 
+- Former Lawyer turned Data Analyst
 - Skilled in Python, SQL, Excel, and Power BI
 - Experienced with data cleaning, feature engineering, modeling, and report automation
 - Strong understanding of business KPIs, customer segmentation, and forecasting
